@@ -1,0 +1,9 @@
+--------------------------------------------------
+               PROJECT TITLE PAGE
+--------------------------------------------------
+Project Title : InsightForge – AI-Powered Business Intelligence System
+Author        : Jon Hembree
+Submission To : [Enter Institution or Reviewer Name]
+Date Submitted: [Enter Date of Submission]
+Contact Email : jon.x.hembree@gmail.com
+--------------------------------------------------
